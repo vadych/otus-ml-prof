@@ -3,10 +3,11 @@ name = "ml-prof"
 version = "0.1.0"
 description = "OTUS ML-Prof course"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = "==3.12.*"
 dependencies = [
     "catboost>=1.2.8",
     "graphviz>=0.21",
+    "hdbscan>=0.8.40",
     "ipykernel>=6.30.1",
     "jupyter>=1.1.1",
     "lightgbm>=4.6.0",
@@ -18,5 +19,6 @@ dependencies = [
     "scikit-learn>=1.7.2",
     "scipy>=1.15.3",
     "seaborn>=0.13.2",
+    "umap-learn>=0.5.9.post2",
     "xgboost>=3.1.0",
 ]

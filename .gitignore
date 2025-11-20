@@ -9,6 +9,8 @@ wheels/
 .lsp*
 .DS_Store
 webinar
+*.csv
+
 
 # Virtual environments
 .venv
