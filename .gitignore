@@ -10,7 +10,8 @@ wheels/
 .DS_Store
 webinar
 *.csv
-
+data/
+test*.ipynb
 
 # Virtual environments
 .venv

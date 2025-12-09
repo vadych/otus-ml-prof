@@ -11,3 +11,4 @@
 - [Работа 2](/home_work/hw_02.ipynb)
 - [Работа 3](/home_work/hw_03.ipynb)
 - [Работа 4](/home_work/hw_04.ipynb)
+- [Работа 5](/home_work/hw_05.ipynb)
