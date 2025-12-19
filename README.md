@@ -12,3 +12,4 @@
 - [Работа 3](/home_work/hw_03.ipynb)
 - [Работа 4](/home_work/hw_04.ipynb)
 - [Работа 5](/home_work/hw_05.ipynb)
+- [Работа 6](/home_work/hw_06.ipynb)
