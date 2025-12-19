@@ -11,8 +11,9 @@ wheels/
 webinar
 *.csv
 data/
+cloud/
 test*.ipynb
+*.pt
 
-# Virtual environments
 .venv
 catboost_info/
