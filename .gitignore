@@ -17,3 +17,5 @@ test*.ipynb
 
 .venv
 catboost_info/
+rubert*
+rut5_large*
